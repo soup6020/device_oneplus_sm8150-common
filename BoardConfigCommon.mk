@@ -52,7 +52,6 @@ TARGET_KERNEL_CONFIG := kronic_defconfig
 TARGET_KERNEL_SOURCE := kernel/oneplus/sm8150
 
 # Platform
-BOARD_USES_QCOM_HARDWARE := true
 QCOM_BOARD_PLATFORMS += msmnile
 TARGET_BOARD_PLATFORM := msmnile
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno640
